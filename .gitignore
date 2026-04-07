@@ -1,0 +1,15 @@
+# React
+client/node_modules/
+client/dist/
+
+# Python
+server/__pycache__/
+server/.venv/
+*.pyc
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
